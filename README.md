@@ -1,3 +1,5 @@
+// TO RUN WITH VS CODE!!!
+
 for mat.c file:
       gcc mat.c (just type this first)
       ./mat.exe(to exectute this code into terminal)
